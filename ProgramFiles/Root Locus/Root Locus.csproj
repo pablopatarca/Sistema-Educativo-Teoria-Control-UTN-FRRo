@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FE3B609E-A8E6-4C59-B965-9431EA4050B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Root_Locus</RootNamespace>
+    <AssemblyName>Root_Locus</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PolyLib">
+      <HintPath>.\PolyLib.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TextBoxConFormato">
+      <HintPath>.\TextBoxConFormato.dll</HintPath>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="ZedGraph">
+      <HintPath>zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmDatosSegundoOrdenProporcionalIntegralDerivativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosSegundoOrdenProporcionalIntegralDerivativo.Designer.cs">
+      <DependentUpon>FrmDatosSegundoOrdenProporcionalIntegralDerivativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRootLocusControladores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRootLocusControladores.Designer.cs">
+      <DependentUpon>FormRootLocusControladores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatosSegundoOrdenProporcionalDerivativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosSegundoOrdenProporcionalDerivativo.Designer.cs">
+      <DependentUpon>FrmDatosSegundoOrdenProporcionalDerivativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatosSegundoOrdenProporcionalIntegral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosSegundoOrdenProporcionalIntegral.Designer.cs">
+      <DependentUpon>FrmDatosSegundoOrdenProporcionalIntegral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatosPrimerOrdenProporcionalDerivativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosPrimerOrdenProporcionalDerivativo.designer.cs">
+      <DependentUpon>FrmDatosPrimerOrdenProporcionalDerivativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatosPrimerOrdenProporcionalIntegral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosPrimerOrdenProporcionalIntegral.Designer.cs">
+      <DependentUpon>FrmDatosPrimerOrdenProporcionalIntegral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatosPrimerOrdenProporcionalIntegralDerivativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosPrimerOrdenProporcionalIntegralDerivativo.Designer.cs">
+      <DependentUpon>FrmDatosPrimerOrdenProporcionalIntegralDerivativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatosPrimerOrdenProporcional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosPrimerOrdenProporcional.Designer.cs">
+      <DependentUpon>FrmDatosPrimerOrdenProporcional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatosSegundoOrdenProporcional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosSegundoOrdenProporcional.designer.cs">
+      <DependentUpon>FrmDatosSegundoOrdenProporcional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiagramaDeBloques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiagramaDeBloques.Designer.cs">
+      <DependentUpon>FrmDiagramaDeBloques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRespuestaEntradaImpulso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRespuestaEntradaImpulso.Designer.cs">
+      <DependentUpon>FrmRespuestaEntradaImpulso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Historial.cs" />
+    <Compile Include="FormRootLocus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRootLocus.Designer.cs">
+      <DependentUpon>FormRootLocus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCompara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCompara.Designer.cs">
+      <DependentUpon>FrmCompara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatos.Designer.cs">
+      <DependentUpon>FrmDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IPropiedadesGrafica.cs" />
+    <Compile Include="PanelGraficaPunto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmDatosSegundoOrdenProporcionalIntegralDerivativo.resx">
+      <DependentUpon>FrmDatosSegundoOrdenProporcionalIntegralDerivativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRootLocusControladores.resx">
+      <DependentUpon>FormRootLocusControladores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosSegundoOrdenProporcionalDerivativo.resx">
+      <DependentUpon>FrmDatosSegundoOrdenProporcionalDerivativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosSegundoOrdenProporcionalIntegral.resx">
+      <DependentUpon>FrmDatosSegundoOrdenProporcionalIntegral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosPrimerOrdenProporcionalDerivativo.resx">
+      <DependentUpon>FrmDatosPrimerOrdenProporcionalDerivativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosPrimerOrdenProporcionalIntegral.resx">
+      <DependentUpon>FrmDatosPrimerOrdenProporcionalIntegral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosPrimerOrdenProporcionalIntegralDerivativo.resx">
+      <DependentUpon>FrmDatosPrimerOrdenProporcionalIntegralDerivativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosPrimerOrdenProporcional.resx">
+      <DependentUpon>FrmDatosPrimerOrdenProporcional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRootLocus.resx">
+      <DependentUpon>FormRootLocus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCompara.resx">
+      <DependentUpon>FrmCompara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatos.resx">
+      <DependentUpon>FrmDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosSegundoOrdenProporcional.resx">
+      <DependentUpon>FrmDatosSegundoOrdenProporcional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiagramaDeBloques.resx">
+      <DependentUpon>FrmDiagramaDeBloques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRespuestaEntradaImpulso.resx">
+      <DependentUpon>FrmRespuestaEntradaImpulso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelGraficaPunto.resx">
+      <DependentUpon>PanelGraficaPunto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RootLocus.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\pant3.rtf" />
+    <None Include="Resources\formulaCondicionAng_Mag_2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\formulaCentroGravedad_Asintotas.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\formulaPuntoRup.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flecha_derecha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flecha_izquierda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cargar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\pantIntro.rtf" />
+    <EmbeddedResource Include="Resources\pant1.rtf" />
+    <EmbeddedResource Include="Resources\pant2.rtf" />
+    <EmbeddedResource Include="Resources\pant4.rtf" />
+    <EmbeddedResource Include="Resources\pant5.rtf" />
+    <None Include="Resources\pincel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ejemplo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\checkmark.png" />
+    <None Include="Resources\formulaPIDImaginario2.JPG" />
+    <None Include="Resources\formulaPID2.JPG" />
+    <None Include="Resources\formulaPD2.JPG" />
+    <None Include="Resources\formulaPI2.JPG" />
+    <None Include="Resources\formulaPIDImaginaria.bmp" />
+    <None Include="Resources\formulaProporcionalDerivativa.bmp" />
+    <None Include="Resources\ProporcionalSegundoOrden.JPG" />
+    <None Include="Resources\formulaPI.JPG" />
+    <None Include="Resources\formulaPID.JPG" />
+    <None Include="Resources\formulaProporcional.JPG" />
+    <None Include="Resources\DiagramaDeBloques.jpg" />
+    <None Include="Resources\Formula_partes\formulaFuncionTransferencia_vacio.bmp" />
+    <None Include="Resources\Formula_partes\funcion_G.png" />
+    <None Include="Resources\Formula_partes\formula_producto_medio.png" />
+    <None Include="Resources\Formula_partes\formula_producto_inicial.png" />
+    <None Include="Resources\Formula_partes\formula_linea_divisoria.png" />
+    <None Include="Resources\Formula_partes\formula_K.png" />
+    <None Include="Resources\Formula_partes\formula_compleja.png" />
+    <None Include="Resources\formulaFuncionTransferencia_CerImagDoble.bmp" />
+    <None Include="Resources\formulaFuncionTransferencia_4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ControlesTDC\Controles.csproj">
+      <Project>{9C14ECF8-2555-4146-BE0A-98F159399FCE}</Project>
+      <Name>Controles</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RespuestaTransiente\TeoriaDeControl\Respuesta Transiente.csproj">
+      <Project>{181A48B0-7CFE-4C76-AB64-3ADB77728DA8}</Project>
+      <Name>Respuesta Transiente</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

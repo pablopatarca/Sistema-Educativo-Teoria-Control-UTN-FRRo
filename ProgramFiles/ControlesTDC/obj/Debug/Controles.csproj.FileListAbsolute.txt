@@ -1,0 +1,562 @@
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\bin\Debug\Controles.dll
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\bin\Debug\Controles.pdb
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\obj\Debug\ResolveAssemblyReference.cache
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\obj\Debug\Controles.BtnBase.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\obj\Debug\Controles.Recursos.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\obj\Debug\Controles.IngresoFormulaBode.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\obj\Debug\GenerateResource.read.1.tlog
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\obj\Debug\GenerateResource.write.1.tlog
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\obj\Debug\Controles.dll
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\ControlesBodeLib\obj\Debug\Controles.pdb
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\obj\Debug\ResolveAssemblyReference.cache
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\obj\Debug\Controles.BtnBase.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\obj\Debug\Controles.Recursos.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\obj\Debug\Controles.IngresoFormulaBode.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\obj\Debug\GenerateResource.read.1.tlog
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\obj\Debug\GenerateResource.write.1.tlog
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\bin\Debug\Controles.dll
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\bin\Debug\Controles.pdb
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\obj\Debug\Controles.dll
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\Proyecto Bode\Controles\obj\Debug\Controles.pdb
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\bin\Debug\Controles.dll
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\bin\Debug\Controles.pdb
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.Recursos.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.dll
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.pdb
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\bin\Debug\Controles.dll
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\bin\Debug\Controles.pdb
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.Recursos.resources
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.dll
+D:\NATANAEL\UTN\Teoría de Control\bode-teoria-de-control\ControlesTDC\ControlesTDC\obj\Debug\Controles.pdb
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\bin\Debug\Controles.dll
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\bin\Debug\Controles.pdb
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\obj\Debug\Controles.Recursos.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\obj\Debug\Controles.dll
+D:\desarrollo-proyectos\Workspace-Visual-Studio-2010\ControlesTDC\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Franco\Desktop\ProyectoTDC\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Presentación TdC\ProyectoTDC\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Proyectos TDC\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Integrador Teoria de Control\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+F:\3.2.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+F:\3.2.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+F:\3.2.0\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+F:\3.2.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+F:\3.2.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+F:\3.2.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+F:\3.2.0\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+F:\3.2.0\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+F:\3.2.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+F:\3.2.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\ControlesTDC\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\bin\Debug\Controles.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.BtnBase.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.Recursos.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.IngresoFormulaBode.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\ControlesTDC\obj\Debug\Controles.pdb

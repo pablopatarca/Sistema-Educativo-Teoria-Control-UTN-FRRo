@@ -1,0 +1,301 @@
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Franco\Desktop\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+F:\3.2.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+F:\3.2.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+F:\3.2.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+F:\3.2.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+F:\3.2.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.XML
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\bin\Debug\BodePlot.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\BodePlot\obj\Debug\BodePlot.pdb

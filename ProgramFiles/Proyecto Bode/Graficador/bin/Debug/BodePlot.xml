@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BodePlot</name>
+    </assembly>
+    <members>
+        <member name="M:BodePlot.PoloOrigen.magnitud(System.Double,System.Double)">
+            <summary>
+            Calcula la magnitud de una función de tipo Polo en el Origen.
+            </summary>
+            <param name="n">Orden del Polo en el Origen.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Magnitud del Polo en el Origen, en db.</returns>
+        </member>
+        <member name="M:BodePlot.PoloOrigen.fase(System.Double)">
+            <summary>
+            Calcula la fase de una función de tipo Polo en el Origen.
+            </summary>
+            <param name="n">Orden del Polo en el Origen.</param>
+            <returns>Fase del Polo en el Origen, en grados.</returns>
+        </member>
+        <member name="M:BodePlot.PoloOrigen.puntoCorte">
+            <summary>
+            Calcula el punto de corte de una función de tipo Polo en el Origen.
+            </summary>
+            <returns>Punto de corte del Polo en el Origen.</returns>
+        </member>
+        <member name="M:BodePlot.PoloCuadratico.magnitud(System.Double,System.Double,System.Double)">
+            <summary>
+            Calcula la magnitud de una función de tipo Polo Cuadrático.
+            </summary>
+            <param name="Wn">Frecuencia natural amortiguada.</param>
+            <param name="psi">Coeficiente de amortiguamiento.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Magnitud del Polo Cuadrático, en db.</returns>
+        </member>
+        <member name="M:BodePlot.PoloCuadratico.fase(System.Double,System.Double,System.Double)">
+            <summary>
+            Calcula la fase de una función de tipo Polo Cuadrático.
+            </summary>
+            <param name="Wn">Frecuencia natural amortiguada.</param>
+            <param name="psi">Coeficiente de amortiguamiento.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Fase del Polo Cuadrático, en grados.</returns>
+        </member>
+        <member name="M:BodePlot.PoloCuadratico.puntoCorte(System.Double,System.Double)">
+            <summary>
+            Calcula el punto de corte de una función de tipo Polo Cuadrático.
+            </summary>
+            <param name="Wn">Frecuencia natural amortiguada.</param>
+            <param name="psi">Coeficiente de amortiguamiento.</param>
+            <returns>Punto de corte del Polo Cuadrático.</returns>
+        </member>
+        <member name="M:BodePlot.ConstanteReal.magnitud(System.Double)">
+            <summary>
+            Calcula la magnitud de una función de tipo Constante Real.
+            </summary>
+            <param name="k">Constante real.</param>
+            <returns>Magnitud de la Constante Real, en db.</returns>
+        </member>
+        <member name="M:BodePlot.ConstanteReal.fase">
+            <summary>
+            Calcula la fase de una función de tipo Constante Real.
+            </summary>
+            <returns>Fase de la Constante Real, en grados.</returns>
+        </member>
+        <member name="F:BodePlot.Curva._Nombre">
+            <summary>
+            Nombre de la curva, por ejemplo "Cero en el origen".
+            </summary>
+        </member>
+        <member name="F:BodePlot.Curva._PuntosMagnitud">
+            <summary>
+            Lista de puntos que conforman la curva de magnitud.
+            </summary>
+        </member>
+        <member name="F:BodePlot.Curva._PuntosFase">
+            <summary>
+            Lista de puntos que conforman la curva de fase.
+            </summary>
+        </member>
+        <member name="F:BodePlot.Curva._PuntoCorte">
+            <summary>
+            Coordenadas del punto de corte.
+            </summary>
+        </member>
+        <member name="M:BodePlot.CeroSimple.magnitud(System.Double,System.Double)">
+            <summary>
+            Calcula la magnitud de una función de tipo Cero Simple.
+            </summary>
+            <param name="T">Constante de tiempo del Cero Simple.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Magnitud del Cero Simple, en db.</returns>
+        </member>
+        <member name="M:BodePlot.CeroSimple.fase(System.Double,System.Double)">
+            <summary>
+            Calcula la fase de una función de tipo Cero Simple.
+            </summary>
+            <param name="T">Constante de tiempo del Cero Simple.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Fase del Cero Simple, en grados.</returns>
+        </member>
+        <member name="M:BodePlot.CeroSimple.puntoCorte(System.Double)">
+            <summary>
+            Calcula el punto de corte de una función de tipo Cero en el Origen.
+            </summary>
+            <param name="T">Constante de tiempo del Cero Simple.</param>
+            <returns>Punto de corte del Cero Simple.</returns>
+        </member>
+        <member name="M:BodePlot.PoloSimple.magnitud(System.Double,System.Double)">
+            <summary>
+            Calcula la magnitud de una función de tipo Polo Simple.
+            </summary>
+            <param name="T">Constante de tiempo del Polo Simple.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Magnitud del Polo Simple, en db.</returns>
+        </member>
+        <member name="M:BodePlot.PoloSimple.fase(System.Double,System.Double)">
+            <summary>
+            Calcula la fase de una función de tipo Polo Simple.
+            </summary>
+            <param name="T">Constante de tiempo del Polo Simple.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Fase del Polo Simple, en grados.</returns>
+        </member>
+        <member name="M:BodePlot.PoloSimple.puntoCorte(System.Double)">
+            <summary>
+            Calcula el punto de corte de una función de tipo Polo Simple.
+            </summary>
+            <param name="T">Constante de tiempo del Polo Simple.</param>
+            <returns>Punto de corte del Polo Simple.</returns>
+        </member>
+        <member name="F:BodePlot.ControladorBode.CANT_PUNTOS_A_CALCULAR_EJE_X">
+            <summary>
+            Cantidad de puntos a calcular.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode.VALOR_ADICIONAL_PARA_INICIO_Y_FIN_MAGNITUD">
+            <summary>
+            Valor que se adiciona al inicio y fin del eje Y en magnitud.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode.VALOR_ADICIONAL_INICIO_Y_FIN_FASE">
+            <summary>
+            Valor que se adiciona al inicio y fin del eje Y en fase.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode.VALOR_ADICIONAL_INICIO_Y_FIN_FASE_IGUALES">
+            <summary>
+            Valor que se adiciona al inicio y fin del eje Y en fase, en caso
+            de tener ambos el mismo valor. 
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._InicioEjeYMagnitud">
+            <summary>
+            Inicio del eje Y de magnitud.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._FinEjeYMagnitud">
+            <summary>
+            Fin del eje Y de magnitud.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._InicioEjeYFase">
+            <summary>
+            Inicio del eje Y de fase.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._FinEjeYFase">
+            <summary>
+            Fin del eje Y de fase.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._CurvasIndividuales">
+            <summary>
+            Lista de curvas individuales.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._CurvasParciales">
+            <summary>
+            Lista de curvas parciales, cada una compuesta por la suma
+            algebraica de todas las curvas individuales anteriores.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._CruceGanancia">
+            <summary>
+            Cruce de ganancia.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._CruceFase">
+            <summary>
+            Cruce de fase.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._MargenFase">
+            <summary>
+            Margen de fase.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._MargenGanancia">
+            <summary>
+            Margen de ganancia.
+            </summary>
+        </member>
+        <member name="F:BodePlot.ControladorBode._anchoBanda">
+            <summary>
+            Coordenadas del ancho de banda.
+            </summary>
+        </member>
+        <member name="M:BodePlot.ControladorBode.#ctor(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})">
+            <summary>
+            Calcula los valores de inicio y fin de los ejes, los márgenes, cruces, y genera las
+            curvas individuales y parciales. Luego de la llamada a esta función, se podrá obtener mediante
+            las propiedades de esta clase, todos los valores recién descritos.
+            </summary>
+            <param name="k">Constante real.</param>
+            <param name="n1">Orden del Cero en el Origen.</param>
+            <param name="T1">Constante de tiempo del primer Cero Simple.</param>
+            <param name="T2">Constante de tiempo del segundo Cero Simple.</param>
+            <param name="Td">Retardo de tiempo.</param>
+            <param name="n2">Orden del Polo en el Origen.</param>
+            <param name="T3">Constante de tiempo del primer Polo Simple.</param>
+            <param name="T4">Constante de tiempo del segundo Polo Simple.</param>
+            <param name="Wn">Frecuencia natural amortiguada.</param>
+            <param name="psi">Coeficiente de amortiguamiento.</param>
+        </member>
+        <member name="P:BodePlot.ControladorBode.InicioEjeX">
+            <summary>
+            Inicio del eje X, tanto de magnitud como de fase.
+            </summary>
+        </member>
+        <member name="P:BodePlot.ControladorBode.FinEjeX">
+            <summary>
+            Fin del eje X, tanto de magnitud como de fase.
+            </summary>
+        </member>
+        <member name="M:BodePlot.CeroOrigen.magnitud(System.Double,System.Double)">
+            <summary>
+            Calcula la magnitud de una función de tipo Cero en el Origen.
+            </summary>
+            <param name="n">Orden del Cero en el Origen.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Magnitud del Cero en el Origen, en db.</returns>
+        </member>
+        <member name="M:BodePlot.CeroOrigen.fase(System.Double)">
+            <summary>
+            Calcula la fase de una función de tipo Cero en el Origen.
+            </summary>
+            <param name="n">Orden del cero en el origen.</param>
+            <returns>Fase del Cero en el Origen, en grados.</returns>
+        </member>
+        <member name="M:BodePlot.CeroOrigen.puntoCorte">
+            <summary>
+            Calcula el punto de corte de una función de tipo Cero en el Origen.
+            </summary>
+            <returns>Punto de corte del Cero en el Origen.</returns>
+        </member>
+        <member name="M:BodePlot.RetardoPuro.magnitud">
+            <summary>
+            Calcula la magnitud de una función de tipo Retardo Puro.
+            </summary>
+            <returns>Magnitud del Retardo Puro, en db.</returns>
+        </member>
+        <member name="M:BodePlot.RetardoPuro.fase(System.Double,System.Double)">
+            <summary>
+            Calcula la fase de una función de tipo Retardo Puro.
+            </summary>
+            <param name="Td">Retardo de tiempo.</param>
+            <param name="w">Frecuencia.</param>
+            <returns>Fase del Retardo Puro, en grados.</returns>
+        </member>
+    </members>
+</doc>

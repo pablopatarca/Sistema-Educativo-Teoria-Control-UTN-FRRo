@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{181A48B0-7CFE-4C76-AB64-3ADB77728DA8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TeoriaDeControl</RootNamespace>
+    <AssemblyName>TeoriaDeControl</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Controles, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLL\Controles.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.2.2.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources">
+      <HintPath>DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\es\ZedGraph.resources.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmOvershootVsPsi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOvershootVsPsi.Designer.cs">
+      <DependentUpon>frmOvershootVsPsi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRespuestaTransienteLocus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRespuestaTransienteLocus.Designer.cs">
+      <DependentUpon>frmRespuestaTransienteLocus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaEscala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaEscala.Designer.cs">
+      <DependentUpon>FormulaEscala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCompara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCompara.Designer.cs">
+      <DependentUpon>FrmCompara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRespuestaTransienteMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRespuestaTransienteMain.Designer.cs">
+      <DependentUpon>frmRespuestaTransienteMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedidas.Designer.cs">
+      <DependentUpon>frmMedidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTiempoAsentVsPsi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTiempoAsentVsPsi.Designer.cs">
+      <DependentUpon>FrmTiempoAsentVsPsi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grafica.cs" />
+    <Compile Include="Historial.cs" />
+    <Compile Include="IPropiedadesGrafica.cs" />
+    <Compile Include="persGraficaMySql.cs" />
+    <Compile Include="persistirGrafica.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelacionAmplitudCteTiempoException.cs" />
+    <Compile Include="Respuestas\EntradaEscalonOrden1.cs" />
+    <Compile Include="Respuestas\EntradaImpulsoOrden1.cs" />
+    <Compile Include="Respuestas\EntradaImpulsoOrden2.cs" />
+    <Compile Include="Respuestas\EntradaRampaOrden1.cs" />
+    <Compile Include="Respuestas\EntradaRampaOrden2.cs" />
+    <Compile Include="Respuestas\EntradaSenoidalOrden1.cs" />
+    <Compile Include="Respuestas\EntradaEscalonOrden2.cs" />
+    <Compile Include="Respuestas\EntradaSenoidalOrden2.cs" />
+    <EmbeddedResource Include="frmOvershootVsPsi.resx">
+      <DependentUpon>frmOvershootVsPsi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRespuestaTransienteLocus.resx">
+      <DependentUpon>frmRespuestaTransienteLocus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaEscala.resx">
+      <DependentUpon>FormulaEscala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCompara.resx">
+      <DependentUpon>FrmCompara.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRespuestaTransienteMain.resx">
+      <DependentUpon>frmRespuestaTransienteMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedidas.resx">
+      <DependentUpon>frmMedidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTiempoAsentVsPsi.resx">
+      <DependentUpon>FrmTiempoAsentVsPsi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DLL\MySql.Data.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\License-LGPL.txt" />
+    <Content Include="DLL\zedgraph_dll_v515\readme.txt" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\de\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\es\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\fr\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\hu\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\it\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ja\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\pt\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ru\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\sk\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\sv\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\tr\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.Web.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.Web.XML" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.XML" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\zh-cn\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\zh-tw\ZedGraph.resources.dll" />
+    <Content Include="Resources\FormulaRampa2Orden1.jpg" />
+    <Content Include="Resources\FormulaRampa2Orden2.jpg" />
+    <Content Include="Resources\FormulaRampa2Orden3.jpg" />
+    <None Include="Resources\FormulaSenoidal2Orden3.jpg" />
+    <None Include="Resources\FormulaSenoidal2Orden2.jpg" />
+    <None Include="Resources\Formulas asentamiento.JPG" />
+    <None Include="Resources\Grafica Overshoot vs Psi.png" />
+    <None Include="Resources\Funcion overshoot.png" />
+    <None Include="Resources\Formula estándar.png" />
+    <None Include="Resources\FormulaSenoidal2OrdenPhi.JPG" />
+    <None Include="Resources\FormulaSenoidal2Orden.JPG" />
+    <None Include="Resources\FormulaSenoidal1Orden.JPG" />
+    <None Include="Resources\FormulaRampa1Orden.JPG" />
+    <None Include="Resources\FormulaImpulso2Orden3.JPG" />
+    <None Include="Resources\FormulaImpulso2Orden2.JPG" />
+    <None Include="Resources\FormulaImpulso2Orden1.JPG" />
+    <None Include="Resources\FormulaImpulso1Orden.JPG" />
+    <None Include="Resources\FormulaEscalon2Orden3.JPG" />
+    <None Include="Resources\FormulaEscalon2Orden2.JPG" />
+    <None Include="Resources\FormulaEscalon2Orden1.JPG" />
+    <None Include="Resources\FormulaEscalon1Orden.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

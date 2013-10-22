@@ -1,0 +1,9 @@
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\bin\Release\FormularioSplash.exe
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\bin\Release\FormularioSplash.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\obj\x86\Release\FormularioSplash.FormSplash.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\obj\x86\Release\FormularioSplash.Properties.Resources.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\obj\x86\Release\FormularioSplash.exe
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\FormularioSplash\obj\x86\Release\FormularioSplash.pdb

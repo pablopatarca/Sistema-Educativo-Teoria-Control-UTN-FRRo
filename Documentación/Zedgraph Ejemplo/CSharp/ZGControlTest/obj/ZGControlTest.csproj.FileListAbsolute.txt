@@ -1,0 +1,20 @@
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZGControlTest.exe
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZGControlTest.pdb
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZedGraph.dll
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Form1.resources
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Properties.Resources.resources
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.csproj.GenerateResource.Cache
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.exe
+D:\Facultad\Teoría de Control\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.pdb
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.exe
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.pdb
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZGControlTest.exe
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZGControlTest.pdb
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\bin\Debug\ZedGraph.dll
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Form1.resources
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Properties.Resources.resources
+D:\Facultad\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.csproj.GenerateResource.Cache
+D:\Facultad\Cuarto Año\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.exe
+D:\Facultad\Cuarto Año\Teoría de Control\ZedGraph\zedgraph_sample_projects_5.1.2\CSharp\ZGControlTest\obj\Debug\ZGControlTest.pdb

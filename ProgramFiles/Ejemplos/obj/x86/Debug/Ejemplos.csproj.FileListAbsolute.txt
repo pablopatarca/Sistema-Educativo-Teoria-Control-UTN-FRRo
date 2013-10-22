@@ -1,0 +1,925 @@
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\bin\Debug\Manometers.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Franco\Desktop\3.3.0\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.2\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Documents and Settings\Administrador\Escritorio\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Franco\Desktop\v3.0.1\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenSubmarino.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónSegundoOrdenAvion.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTanqueDeAgua.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.FrmEscalónPrimerOrdenTermómetro.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.Properties.Resources.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe.licenses
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.exe
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\obj\x86\Debug\Ejemplos.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\DevExpress.Data.v12.2.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\Manometers.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\VerticalProgressBar.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\Controles.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\DevExpress.Data.v12.2.xml
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Ejemplos\bin\Debug\zh-tw\ZedGraph.resources.dll

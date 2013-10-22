@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{02FF84D8-387D-400E-B686-1F0DC70E422C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ejemplos</RootNamespace>
+    <AssemblyName>Ejemplos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v12.2.Core, Version=12.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v12.2.Win, Version=12.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v12.2, Version=12.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Manometers">
+      <HintPath>zedgraph_dll_v515\zedgraph_dll_v5.1.5\Manometers.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VerticalProgressBar">
+      <HintPath>zedgraph_dll_v515\zedgraph_dll_v5.1.5\VerticalProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph">
+      <HintPath>zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmEscalónSegundoOrdenSubmarino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEscalónSegundoOrdenSubmarino.Designer.cs">
+      <DependentUpon>FrmEscalónSegundoOrdenSubmarino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEscalónSegundoOrdenAvion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEscalónSegundoOrdenAvion.Designer.cs">
+      <DependentUpon>FrmEscalónSegundoOrdenAvion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEscalónPrimerOrdenTanqueDeAgua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEscalónPrimerOrdenTanqueDeAgua.Designer.cs">
+      <DependentUpon>FrmEscalónPrimerOrdenTanqueDeAgua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEscalónPrimerOrdenTermómetro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEscalónPrimerOrdenTermómetro.Designer.cs">
+      <DependentUpon>FrmEscalónPrimerOrdenTermómetro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmEscalónSegundoOrdenSubmarino.resx">
+      <DependentUpon>FrmEscalónSegundoOrdenSubmarino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEscalónSegundoOrdenAvion.resx">
+      <DependentUpon>FrmEscalónSegundoOrdenAvion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEscalónPrimerOrdenTanqueDeAgua.resx">
+      <DependentUpon>FrmEscalónPrimerOrdenTanqueDeAgua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEscalónPrimerOrdenTermómetro.resx">
+      <DependentUpon>FrmEscalónPrimerOrdenTermómetro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tanque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Escala.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RespuestaTransiente\TeoriaDeControl\Respuesta Transiente.csproj">
+      <Project>{181A48B0-7CFE-4C76-AB64-3ADB77728DA8}</Project>
+      <Name>Respuesta Transiente</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoAvion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoSubmarino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Submarino.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

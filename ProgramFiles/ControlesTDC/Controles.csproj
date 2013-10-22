@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9C14ECF8-2555-4146-BE0A-98F159399FCE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Controles</RootNamespace>
+    <AssemblyName>Controles</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="botones\BtnAceptar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnAceptar.Designer.cs">
+      <DependentUpon>BtnAceptar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnAvanzar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnAvanzar.Designer.cs">
+      <DependentUpon>BtnAvanzar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnBase.Designer.cs">
+      <DependentUpon>BtnBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnCancelar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnCancelar.Designer.cs">
+      <DependentUpon>BtnCancelar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnCargar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnCargar.Designer.cs">
+      <DependentUpon>BtnCargar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnEditar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnEditar.Designer.cs">
+      <DependentUpon>BtnEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnEjemplos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnEjemplos.Designer.cs">
+      <DependentUpon>BtnEjemplos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnEliminar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnEliminar.Designer.cs">
+      <DependentUpon>BtnEliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnFormula.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnFormula.Designer.cs">
+      <DependentUpon>BtnFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnGraficar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnGraficar.Designer.cs">
+      <DependentUpon>BtnGraficar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnGuardar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnGuardar.Designer.cs">
+      <DependentUpon>BtnGuardar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnLimpiar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnLimpiar.Designer.cs">
+      <DependentUpon>BtnLimpiar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnMedidas.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnMedidas.Designer.cs">
+      <DependentUpon>BtnMedidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnNuevo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnNuevo.Designer.cs">
+      <DependentUpon>BtnNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnRepetirUltimaFila.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnRepetirUltimaFila.Designer.cs">
+      <DependentUpon>BtnRepetirUltimaFila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="botones\BtnRetroceder.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="botones\BtnRetroceder.Designer.cs">
+      <DependentUpon>BtnRetroceder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recursos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Recursos.resx</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoFormulaBode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IngresoFormulaBode.Designer.cs">
+      <DependentUpon>IngresoFormulaBode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="textboxes\TxtBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="textboxes\TxtBase.Designer.cs">
+      <DependentUpon>TxtBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="textboxes\TxtDouble.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="textboxes\TxtDouble.Designer.cs">
+      <DependentUpon>TxtDouble.cs</DependentUpon>
+    </Compile>
+    <Compile Include="textboxes\TxtDoubleValorAbsoluto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="textboxes\TxtDoubleValorAbsoluto.Designer.cs">
+      <DependentUpon>TxtDoubleValorAbsoluto.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="botones\BtnBase.resx">
+      <DependentUpon>BtnBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recursos.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Recursos.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoFormulaBode.resx">
+      <DependentUpon>IngresoFormulaBode.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="iconos\aceptar.png" />
+    <Content Include="iconos\cancelar.png" />
+    <Content Include="iconos\formula.png" />
+    <None Include="iconos\repetir_ultima_fila.png" />
+    <None Include="iconos\medidas.png" />
+    <None Include="iconos\graficar.png" />
+    <None Include="iconos\eliminar.png" />
+    <None Include="iconos\editar.png" />
+    <None Include="iconos\nuevo.png" />
+    <None Include="iconos\ejemplos.png" />
+    <None Include="iconos\cargar.png" />
+    <None Include="iconos\guardar.png" />
+    <None Include="iconos\limpiar.png" />
+    <None Include="iconos\avanzar.png" />
+    <None Include="iconos\retroceder.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,18 @@
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\obj\Debug\ZGControlTest.exe
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\obj\Debug\ZGControlTest.pdb
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\bin\Debug\ZGControlTest.exe
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\bin\Debug\ZGControlTest.pdb
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Form1.resources
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Properties.Resources.resources
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\obj\Debug\ResGen.read.1.tlog
+C:\Users\FRANCO\Desktop\CSharp\ZGControlTest\obj\Debug\ResGen.write.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\obj\Debug\ZGControlTest.exe
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\obj\Debug\ZGControlTest.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\bin\Debug\ZGControlTest.exe
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\bin\Debug\ZGControlTest.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Form1.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\obj\Debug\ZGControlTest.Properties.Resources.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\obj\Debug\ResGen.read.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Zedgraph\CSharp\ZGControlTest\obj\Debug\ResGen.write.1.tlog

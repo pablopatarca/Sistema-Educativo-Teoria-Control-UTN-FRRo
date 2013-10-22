@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E8D2972B-B357-4ED3-99DC-F32B2859E8D0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Controladores</RootNamespace>
+    <AssemblyName>Controladores</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Controles, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLL\Controles.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.resources">
+      <HintPath>DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\es\ZedGraph.resources.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controladores\ErrorCuadratico.cs" />
+    <Compile Include="Controladores\ErrorEscalon.cs" />
+    <Compile Include="Controladores\ErrorRampa.cs" />
+    <Compile Include="Controladores\Proporcional.cs" />
+    <Compile Include="Controladores\ProporcionalDerivativo.cs" />
+    <Compile Include="Controladores\ProporcionalIntegral.cs" />
+    <Compile Include="Controladores\ProporcionalIntegralDerivativo.cs" />
+    <Compile Include="frmControladores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControladores.Designer.cs">
+      <DependentUpon>frmControladores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedidas.Designer.cs">
+      <DependentUpon>frmMedidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grafica.cs" />
+    <Compile Include="IPropiedadesGrafica.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmControladores.resx">
+      <DependentUpon>frmControladores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedidas.resx">
+      <DependentUpon>frmMedidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DLL\Controles.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\License-LGPL.txt" />
+    <Content Include="DLL\zedgraph_dll_v515\readme.txt" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\de\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\es\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\fr\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\hu\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\it\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ja\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\pt\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ru\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\sk\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\sv\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\tr\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.Web.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.Web.XML" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.XML" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\zh-cn\ZedGraph.resources.dll" />
+    <Content Include="DLL\zedgraph_dll_v515\zedgraph_dll_v5.1.5\zh-tw\ZedGraph.resources.dll" />
+    <None Include="Resources\error_rampa.png" />
+    <None Include="Resources\error_escalon.png" />
+    <None Include="Resources\error_cuadratico.png" />
+    <None Include="Resources\ecuaciones.png" />
+    <None Include="Resources\controlador_proporcional_rampa.png" />
+    <None Include="Resources\controlador_proporcional_integral_rampa.png" />
+    <None Include="Resources\controlador_proporcional_integral_escalon.png" />
+    <None Include="Resources\controlador_proporcional_integral_derivativo_rampa.png" />
+    <None Include="Resources\controlador_proporcional_integral_derivativo_escalon.png" />
+    <None Include="Resources\controlador_proporcional_integral_derivativo_cuadratico.png" />
+    <None Include="Resources\controlador_proporcional_integral_derivativo.png" />
+    <None Include="Resources\controlador_proporcional_integral_cuadratico.png" />
+    <None Include="Resources\controlador_proporcional_integral.png" />
+    <None Include="Resources\controlador_proporcional_escalon.png" />
+    <None Include="Resources\controlador_proporcional_derivativo_rampa.png" />
+    <None Include="Resources\controlador_proporcional_derivativo_escalon.png" />
+    <None Include="Resources\controlador_proporcional_derivativo_cuadratico.png" />
+    <None Include="Resources\controlador_proporcional_derivativo.png" />
+    <None Include="Resources\controlador_proporcional_cuadratico.png" />
+    <None Include="Resources\controlador_proporcional.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

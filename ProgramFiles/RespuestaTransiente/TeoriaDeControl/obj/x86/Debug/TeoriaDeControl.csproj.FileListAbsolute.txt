@@ -1,0 +1,385 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\UTN\TeoriaDeControl\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\TeoriaDeControl - BENJAMIN\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\UTN\TeoriaDeControl\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+H:\UTN\TeoriaDeControl\TeoriaDeControl - BENJAMIN\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mauro\Desktop\Benjamin\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-04-25\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\+Mauro\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-02-05\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+C:\Users\Mater\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jose Luis\Documents\Visual Studio 2010\Projects\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-18\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Ventana.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-05-21\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\Controles.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\ZedGraph.xml
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\+UTN\+Anterior+Varios\4º Año\TeoríadeControl\Proyecto_TeoriaDeControl\Benja\2012-06-12\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\TeoriaDeControl.BAK.v2.00\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Users\Natanael\Desktop\TeoriaDeControl.BAK.v2.00\TeoriaDeControl\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\Controles.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Nueva carpeta\Proyectos TDC\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMain.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmMedidas.resources
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.Properties.Resources.resources
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.exe
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Debug\TeoriaDeControl.frmRespuestaTransienteMain.resources

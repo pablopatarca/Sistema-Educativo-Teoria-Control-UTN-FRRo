@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D9E1D74E-A34D-4712-AF4D-5AD1FD212F4A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DiagramasBode</RootNamespace>
+    <AssemblyName>DiagramasBode</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\DiagramasBode.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Controles, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Controles.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCompara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCompara.Designer.cs">
+      <DependentUpon>FrmCompara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipalControladores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipalControladores.Designer.cs">
+      <DependentUpon>FrmPrincipalControladores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiagramaDeBloques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiagramaDeBloques.Designer.cs">
+      <DependentUpon>FrmDiagramaDeBloques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEdicionFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEdicionFormula.Designer.cs">
+      <DependentUpon>FrmEdicionFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEjemplos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEjemplos.Designer.cs">
+      <DependentUpon>FrmEjemplos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIngresoFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIngresoFormula.Designer.cs">
+      <DependentUpon>FrmIngresoFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Historial.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCompara.resx">
+      <DependentUpon>FrmCompara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipalControladores.resx">
+      <DependentUpon>FrmPrincipalControladores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiagramaDeBloques.resx">
+      <DependentUpon>FrmDiagramaDeBloques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEdicionFormula.resx">
+      <DependentUpon>FrmEdicionFormula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEjemplos.resx">
+      <DependentUpon>FrmEjemplos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIngresoFormula.resx">
+      <DependentUpon>FrmIngresoFormula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Teoria de Control\formulas_bode.bode" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiagramaDeBloques.jpg" />
+    <None Include="Resources\formulaPrimerOrdenP.bmp" />
+    <Content Include="Resources\formula_funcion_entrada.png" />
+    <None Include="Resources\Productos\formula_funcion_entrada_vacia.png" />
+    <None Include="Resources\Productos\CteTiempo1CeroSimple.png" />
+    <None Include="Resources\Productos\CteTiempo1PoloSimple.png" />
+    <None Include="Resources\Productos\CteTiempo2CeroSimple.png" />
+    <None Include="Resources\Productos\CteTiempo2PoloSimple.png" />
+    <None Include="Resources\Productos\FrecNA - CAmort.png" />
+    <None Include="Resources\Productos\OrdenCeroEnElOrigen.png" />
+    <None Include="Resources\Productos\OrdenPoloOrigen.png" />
+    <None Include="Resources\Productos\RetardoTiempo.png" />
+    <None Include="Resources\Productos\formula_funcion_entrada_vacia_sl.png" />
+    <None Include="Resources\Productos\FuncionGs.png" />
+    <None Include="Resources\Productos\lineaDivisoria.png" />
+    <Content Include="zedgraph_dll_v5.1.5\de\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\es\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\fr\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\hu\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\it\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\ja\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\pt\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\ru\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\sk\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\sv\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\tr\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\ZedGraph.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\ZedGraph.Web.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\ZedGraph.Web.XML" />
+    <Content Include="zedgraph_dll_v5.1.5\ZedGraph.XML" />
+    <Content Include="zedgraph_dll_v5.1.5\zh-cn\ZedGraph.resources.dll" />
+    <Content Include="zedgraph_dll_v5.1.5\zh-tw\ZedGraph.resources.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BodePlot\BodePlot.csproj">
+      <Project>{6E146DB8-CAF3-445F-B107-00F546BE2659}</Project>
+      <Name>BodePlot</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Util\Util.csproj">
+      <Project>{BFF12283-0809-4214-A4E8-12FA7AB27560}</Project>
+      <Name>Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

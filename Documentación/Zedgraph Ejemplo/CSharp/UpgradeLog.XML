@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ZGControlTest">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\FRANCO\Desktop\CSharp\ZGControlTest.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\FRANCO\Desktop\CSharp\ZGControlTest.suo">
+</Property><Property Name="Date" Value="viernes, 08 de marzo de 2013">
+</Property><Property Name="Time" Value="00:39 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ZGControlTest.sln" Description="La copia C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="ZGControlTest.suo" Description="La copia C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\ZGControlTest.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\ZGControlTest.csproj">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Program.cs">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\FRANCO\Desktop\CSharp\Backup\ZGControlTest\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="ZGControlTest" Source="ZGControlTest\ZGControlTest.csproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\ZGControlTest.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="ZGControlTest" Source="ZGControlTest\ZGControlTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ZGControlTest.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ZGControlTest.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZGControlTest" Source="ZGControlTest\ZGControlTest.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

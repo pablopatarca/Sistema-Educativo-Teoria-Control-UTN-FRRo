@@ -1,0 +1,10 @@
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\bin\Release\Controles.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\bin\Release\Controles.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Release\Controles.BtnBase.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Release\Controles.Recursos.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Release\Controles.IngresoFormulaBode.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Release\Controles.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\ControlesTDC\obj\Release\Controles.pdb

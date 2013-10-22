@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TP">
+</Property><Property Name="Archivo de la solución" Value="D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\TP.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\TP.suo">
+</Property><Property Name="Date" Value="miércoles, 19 de octubre de 2011">
+</Property><Property Name="Time" Value="13:46 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TP.sln" Description="La copia D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\TP.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="TP.suo" Description="La copia D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\TP.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="TP" Source="TP.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\TP.csproj">
+</Event><Event ErrorLevel="0" Project="TP" Source="Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TP" Source="Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TP" Source="Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="TP" Source="Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TP" Source="Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TP" Source="Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TP" Source="RootLocus.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\RootLocus.cs">
+</Event><Event ErrorLevel="0" Project="TP" Source="Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TP" Source="Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TP" Source="Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\!LEO\UTN\Teoria de Control\Proyecto Promocion\TP\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TP" Source="TP.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="TP" Source="TP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TP.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="TP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TP" Source="TP.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

@@ -1,0 +1,6 @@
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Release\TeoriaDeControl.frmMain.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Release\TeoriaDeControl.frmMedidas.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Release\TeoriaDeControl.Properties.Resources.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\RespuestaTransiente\TeoriaDeControl\obj\x86\Release\GenerateResource.write.1.tlog

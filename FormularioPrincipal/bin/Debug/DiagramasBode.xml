@@ -1,0 +1,804 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DiagramasBode</name>
+    </assembly>
+    <members>
+        <member name="F:DiagramasBode.FrmCompara.GROSOR_CURVA_INDIVIDUAL">
+            <summary>
+            Grosor de las curvas individuales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.GROSOR_CURVA_PARCIAL">
+            <summary>
+            Grosor de las curvas parciales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.coloresCurvasIndividuales">
+            <summary>
+            Colores para las curvas individuales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.colorCurvaParcial">
+            <summary>
+            Color de las curvas parciales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.gpMagnitud1">
+            <summary>
+            Objeto de dibujo para la gráfica de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.gpFase1">
+            <summary>
+            Objeto de dibujo para la gráfica de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsCurvasIndividualesMagnitud1">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, individuales de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsCurvasIndividualesFase1">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, individuales de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsCurvasParcialesMagnitud1">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, parciales de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsCurvasParcialesFase1">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, parciales de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsPuntosCorte1">
+            <summary>
+            Lista de puntos de corte de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsPuntosCruceGanancia1">
+            <summary>
+            Lista de puntos de cruce de ganancia de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsPuntosCruceFase1">
+            <summary>
+            Lista de puntos de cruce de fase de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.controladorBode1">
+            <summary>
+            Controlador que contiene todos los valores matemáticos calculados, que son
+            necesarios para la graficación de las curvas.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara._Formula1">
+            <summary>
+            Fórmula que está siendo graficada.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.primeraEjecucion1">
+            <summary>
+            Determina si nos encontramos actualmente en el primer paso de la ejecución
+            de una gráfica.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.indiceCurvaActual1">
+            <summary>
+            Índice que determina la curva individual que el usuario está visualizando.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarlineItemsCurvasIndividualesFase1">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas individuales de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas individuales de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarlineItemsCurvasParcialesMagnitud1">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas parciales de magnitud.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas parciales de magnitud.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarlineItemsCurvasParcialesFase1">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas parciales de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas parciales de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarlineItemsPuntosCorte1">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los puntos de corte.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los puntos de corte.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarlineItemsPuntosCruceGanancia1">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los cruces de ganancia.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los cruces de ganancia.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarlineItemsPuntosCruceFase1">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los cruces de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los cruces de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.mostrarCurvas1">
+            <summary>
+            Muestra las curvas individuales y parciales, los puntos de corte y los cruces de 
+            magnitud y fase hasta aquella curva que indique el índice de la curva actual.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.gpFase">
+            <summary>
+            Objeto de dibujo para la gráfica de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsCurvasIndividualesMagnitud">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, individuales de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsCurvasIndividualesFase">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, individuales de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsCurvasParcialesMagnitud">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, parciales de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsCurvasParcialesFase">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, parciales de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsPuntosCorte">
+            <summary>
+            Lista de puntos de corte de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsPuntosCruceGanancia">
+            <summary>
+            Lista de puntos de cruce de ganancia de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.lineItemsPuntosCruceFase">
+            <summary>
+            Lista de puntos de cruce de fase de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.controladorBode">
+            <summary>
+            Controlador que contiene todos los valores matemáticos calculados, que son
+            necesarios para la graficación de las curvas.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara._Formula">
+            <summary>
+            Fórmula que está siendo graficada.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.primeraEjecucion">
+            <summary>
+            Determina si nos encontramos actualmente en el primer paso de la ejecución
+            de una gráfica.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.indiceCurvaActual">
+            <summary>
+            Índice que determina la curva individual que el usuario está visualizando.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarLineItemsCurvasIndividualesMagnitud">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas individuales de magnitud.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas individuales de magnitud.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarLineItemsCurvasIndividualesFase">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas individuales de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas individuales de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarLineItemsCurvasParcialesMagnitud">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas parciales de magnitud.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas parciales de magnitud.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarLineItemsCurvasParcialesFase">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas parciales de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas parciales de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarLineItemsPuntosCorte">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los puntos de corte.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los puntos de corte.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarLineItemsPuntosCruceGanancia">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los cruces de ganancia.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los cruces de ganancia.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.generarLineItemsPuntosCruceFase">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los cruces de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los cruces de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.mostrarCurvas">
+            <summary>
+            Muestra las curvas individuales y parciales, los puntos de corte y los cruces de 
+            magnitud y fase hasta aquella curva que indique el índice de la curva actual.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmCompara.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DiagramasBode.FrmCompara.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.GROSOR_CURVA_INDIVIDUAL">
+            <summary>
+            Grosor de las curvas individuales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.GROSOR_CURVA_PARCIAL">
+            <summary>
+            Grosor de las curvas parciales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.coloresCurvasIndividuales">
+            <summary>
+            Colores para las curvas individuales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.colorCurvaParcial">
+            <summary>
+            Color de las curvas parciales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.gpMagnitud">
+            <summary>
+            Objeto de dibujo para la gráfica de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.gpFase">
+            <summary>
+            Objeto de dibujo para la gráfica de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.lineItemsCurvasIndividualesMagnitud">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, individuales de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.lineItemsCurvasIndividualesFase">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, individuales de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.lineItemsCurvasParcialesMagnitud">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, parciales de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.lineItemsCurvasParcialesFase">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, parciales de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.lineItemsPuntosCorte">
+            <summary>
+            Lista de puntos de corte de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.lineItemsPuntosCruceGanancia">
+            <summary>
+            Lista de puntos de cruce de ganancia de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.lineItemsPuntosCruceFase">
+            <summary>
+            Lista de puntos de cruce de fase de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.graficaDobleActiva">
+            <summary>
+            Determina si actualmente se están visualizando las gráficas de magnitud y fase simultáneamente.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.controladorBode">
+            <summary>
+            Controlador que contiene todos los valores matemáticos calculados, que son
+            necesarios para la graficación de las curvas.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal._Formula">
+            <summary>
+            Fórmula que está siendo graficada.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.primeraEjecucion">
+            <summary>
+            Determina si nos encontramos actualmente en el primer paso de la ejecución
+            de una gráfica.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipal.indiceCurvaActual">
+            <summary>
+            Índice que determina la curva individual que el usuario está visualizando.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.establecerPropiedadesPrimarias">
+            <summary>
+            Establece las propiedades fijas de las gráficas: nombre de ejes, escalas, enrejillado, etc.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.avanzar">
+            <summary>
+            Avanza en el dibujado de la siguiente curva individual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.retroceder">
+            <summary>
+            Retrocede en el dibujado de la siguiente curva individual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.generarLineItemsCurvasIndividualesMagnitud">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas individuales de magnitud.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas individuales de magnitud.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.generarLineItemsCurvasIndividualesFase">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas individuales de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas individuales de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.generarLineItemsCurvasParcialesMagnitud">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas parciales de magnitud.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas parciales de magnitud.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.generarLineItemsCurvasParcialesFase">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas parciales de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas parciales de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.generarLineItemsPuntosCorte">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los puntos de corte.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los puntos de corte.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.generarLineItemsPuntosCruceGanancia">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los cruces de ganancia.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los cruces de ganancia.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.generarLineItemsPuntosCruceFase">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los cruces de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los cruces de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.mostrarCurvas">
+            <summary>
+            Muestra las curvas individuales y parciales, los puntos de corte y los cruces de 
+            magnitud y fase hasta aquella curva que indique el índice de la curva actual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.mostrarCurvasIndividuales">
+            <summary>
+            Muestra las curvas individuales, hasta aquella curva que indique el índice de la curva actual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.ocultarCurvasIndividuales">
+            <summary>
+            Oculta las curvas individuales, hasta aquella curva que indique el índice de la curva actual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.limpiar">
+            <summary>
+            Limpia las gráficas de magnitud y fase, la fórmula mostrada, y reestablece todos los
+            atributos gráficos y no gráficos.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.reestablecerEscala">
+            <summary>
+            Se actualiza la escala de las gráficas de magnitud y fase, luego de
+            agregar o quitar una curva.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipal.establecerFormula">
+            <summary>
+            Establece los valores de la fórmula en el panel de fórmula visible.
+            </summary>
+        </member>
+        <member name="T:DiagramasBode.Properties.Resources">
+            <summary>
+              Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:DiagramasBode.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:DiagramasBode.Properties.Resources.Culture">
+            <summary>
+              Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.GROSOR_CURVA_INDIVIDUAL">
+            <summary>
+            Grosor de las curvas individuales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.GROSOR_CURVA_PARCIAL">
+            <summary>
+            Grosor de las curvas parciales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.coloresCurvasIndividuales">
+            <summary>
+            Colores para las curvas individuales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.colorCurvaParcial">
+            <summary>
+            Color de las curvas parciales.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.gpMagnitud">
+            <summary>
+            Objeto de dibujo para la gráfica de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.gpFase">
+            <summary>
+            Objeto de dibujo para la gráfica de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.lineItemsCurvasIndividualesMagnitud">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, individuales de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.lineItemsCurvasIndividualesFase">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, individuales de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.lineItemsCurvasParcialesMagnitud">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, parciales de magnitud.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.lineItemsCurvasParcialesFase">
+            <summary>
+            Lista de curvas gráficas de ZedGraph, parciales de fase.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.lineItemsPuntosCorte">
+            <summary>
+            Lista de puntos de corte de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.lineItemsPuntosCruceGanancia">
+            <summary>
+            Lista de puntos de cruce de ganancia de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.lineItemsPuntosCruceFase">
+            <summary>
+            Lista de puntos de cruce de fase de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.lineItemsPuntosAnchoBanda">
+            <summary>
+            Lista de puntos de ancho de banda de ZedGraph.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.graficaDobleActiva">
+            <summary>
+            Determina si actualmente se están visualizando las gráficas de magnitud y fase simultáneamente.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.controladorBode">
+            <summary>
+            Controlador que contiene todos los valores matemáticos calculados, que son
+            necesarios para la graficación de las curvas.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores._Formula">
+            <summary>
+            Fórmula que está siendo graficada.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.primeraEjecucion">
+            <summary>
+            Determina si nos encontramos actualmente en el primer paso de la ejecución
+            de una gráfica.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmPrincipalControladores.indiceCurvaActual">
+            <summary>
+            Índice que determina la curva individual que el usuario está visualizando.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.establecerPropiedadesPrimarias">
+            <summary>
+            Establece las propiedades fijas de las gráficas: nombre de ejes, escalas, enrejillado, etc.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.avanzar">
+            <summary>
+            Avanza en el dibujado de la siguiente curva individual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.retroceder">
+            <summary>
+            Retrocede en el dibujado de la siguiente curva individual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.generarLineItemsCurvasIndividualesMagnitud">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas individuales de magnitud.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas individuales de magnitud.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.generarLineItemsCurvasIndividualesFase">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas individuales de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas individuales de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.generarLineItemsCurvasParcialesMagnitud">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas parciales de magnitud.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas parciales de magnitud.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.generarLineItemsCurvasParcialesFase">
+            <summary>
+            Genera una lista de líneas de ZedGraph, para las curvas parciales de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para las curvas parciales de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.generarLineItemsPuntosCorte">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los puntos de corte.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los puntos de corte.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.generarLineItemsPuntosCruceGanancia">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los cruces de ganancia.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los cruces de ganancia.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.generarLineItemsPuntosCruceFase">
+            <summary>
+            Genera una lista de línea de ZedGraph, para los cruces de fase.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para los cruces de fase.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.generarLineItemsAnchoBanda">
+            <summary>
+            Genera una lista de línea de ZedGraph, para el ancho de banda.
+            </summary>
+            <returns>Lista de líneas de ZedGraph, para el ancho de banda.</returns>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.mostrarCurvas">
+            <summary>
+            Muestra las curvas individuales y parciales, los puntos de corte y los cruces de 
+            magnitud y fase hasta aquella curva que indique el índice de la curva actual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.mostrarCurvasIndividuales">
+            <summary>
+            Muestra las curvas individuales, hasta aquella curva que indique el índice de la curva actual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.ocultarCurvasIndividuales">
+            <summary>
+            Oculta las curvas individuales, hasta aquella curva que indique el índice de la curva actual.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.limpiar">
+            <summary>
+            Limpia las gráficas de magnitud y fase, la fórmula mostrada, y reestablece todos los
+            atributos gráficos y no gráficos.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.reestablecerEscala">
+            <summary>
+            Se actualiza la escala de las gráficas de magnitud y fase, luego de
+            agregar o quitar una curva.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmPrincipalControladores.establecerFormula">
+            <summary>
+            Establece los valores de la fórmula en el panel de fórmula visible.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmFormulas._FormulaSeleccionada">
+            <summary>
+            Fórmula seleccionada en el formulario.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmFormulas.formulas">
+            <summary>
+            Lista de fórmulas disponibles para su selección en el formulario.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmFormulas.actualizar">
+            <summary>
+            Actualiza la lista de fórmulas disponibles para su selección en el formulario,
+            luego de haber agregado o quitado alguna de ellas.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmFormulas.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmFormulas.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DiagramasBode.FrmFormulas.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmIngresoFormula.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmIngresoFormula.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DiagramasBode.FrmIngresoFormula.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmIngresoFormula._Formula">
+            <summary>
+            Fórmula ingresada a través del formulario.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmEdicionFormula.modo">
+            <summary>
+            Modo actual del formulario.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmEdicionFormula.formulaAEditar">
+            <summary>
+            Fórmula a editar, en caso de estar en modo edición.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmEdicionFormula.llenarFormulario(Util.Formula)">
+            <summary>
+            Llena el formulario con los valores de una fórmula.
+            </summary>
+            <param name="formula">Fórmula con la que se llenará el formulario.</param>
+        </member>
+        <member name="F:DiagramasBode.FrmEdicionFormula.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmEdicionFormula.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DiagramasBode.FrmEdicionFormula.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DiagramasBode.FrmEdicionFormula.Modos">
+            <summary>
+            Modos del formulario: creación de nueva fórmula o edición de fórmula existente.
+            </summary>
+        </member>
+        <member name="F:DiagramasBode.FrmDiagramaDeBloques.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.FrmDiagramaDeBloques.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DiagramasBode.FrmDiagramaDeBloques.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DiagramasBode.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+    </members>
+</doc>

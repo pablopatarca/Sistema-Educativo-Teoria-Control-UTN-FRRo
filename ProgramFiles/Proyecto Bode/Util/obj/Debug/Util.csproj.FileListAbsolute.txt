@@ -1,0 +1,499 @@
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Natanael\Desktop\Proyectos TDC\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Franco\Desktop\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Franco\Desktop\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Franco\Desktop\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Franco\Desktop\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Franco\Desktop\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Franco\Desktop\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Franco\Desktop\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\bin\Debug\Util.dll.config
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\bin\Debug\Util.XML
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\bin\Debug\Util.dll
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\bin\Debug\Util.pdb
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\obj\Debug\Util.dll
+C:\Users\Franco\Desktop\Proyecto Bode - Franco\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\FMK\Mis documentos\Visual Studio 2010\Projects\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+D:\TeoríaDeControl\SETC\Códigos fuente\2.4.2.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Franco\Desktop\3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.2\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.0.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Franco\Desktop\3.1.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Franco\Desktop\3.1.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\TeoríaDeControl\SETC\Códigos fuente\Copia de 3.1.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Franco\Desktop\3.1.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\Copia de 3.1.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\3.1.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+F:\3.2.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.2.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\3.3.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.3.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.3.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Administrador\Escritorio\3.4.3\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.4\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.5\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.6\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.7\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Franco\Desktop\3.4.8\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.4.9\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Proyecto Integrador Teoria de Control\3.5.0\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.csproj.GenerateResource.Cache
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\Pagliaro\Desktop\Luis\UTN\4º\Teoría De Control\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v3.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Users\FRANCO\Desktop\Sistema TC Educativo NUEVO\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.XML
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+D:\Dipra\UTN\2012\Teoria de Control\Sistema TC Educativo\Sistema Educativo Teoría De Control\Códigos fuente\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll.config
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\bin\Debug\Util.pdb
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.Recursos.resources
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.dll
+C:\Documents and Settings\Pablo\Mis documentos\workspace\ProyectoTC\v4.0.1\ProgramFiles\Proyecto Bode\Util\obj\Debug\Util.pdb

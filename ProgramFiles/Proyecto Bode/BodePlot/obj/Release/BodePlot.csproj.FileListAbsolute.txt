@@ -1,0 +1,5 @@
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Release\BodePlot.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\bin\Release\BodePlot.pdb
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Release\BodePlot.dll
+C:\Users\Natanael\Desktop\Proyecto Integrador Teoria de Control\ProgramFiles\Proyecto Bode\BodePlot\obj\Release\BodePlot.pdb
